@@ -2,7 +2,7 @@ body {
 	background-color: black;
 }
 
-p {
+p, a{
 	color: red;
 	text-align: center;
 }
@@ -32,4 +32,21 @@ p {
 .fadeIn {
   -webkit-animation-name: fadeIn;
   animation-name: fadeIn;
+}
+
+p.talk{
+	float: left;
+	color: white;
+}
+
+img{
+	align: center;
+	display: inline;
+	padding: 10px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
