@@ -152,3 +152,14 @@ function init() {
 		alert("Canvas not supported!");
 	}
 }
+function checkAnswer(){
+    a = prompt('What do you say?')
+    if(a == 'trollololol'){
+        alert('Well Done. Correct answer')
+	window.location.replace("http://cybrix.tech/puzzle2.html");
+    }
+    else{
+        alert('Sorry, incorrect, try again')
+    }
+
+}
