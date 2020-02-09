@@ -1,7 +1,7 @@
 function checkAnswer(){
     a = prompt('What do you say?')
     if(a == "please, I don't wanna go"){
-        alert('Well Done. Correct answer')
+        alert('Well Done. You saved Bricky')
 	window.location.replace("http://cybrix.tech/final.html");
     }
     else{
