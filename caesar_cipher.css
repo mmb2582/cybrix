@@ -10,4 +10,11 @@ input#shift
 	color: #666666;
 	padding: 1px;
 }
-© 2020 GitHub, Inc.
+.entire {
+	display: flex;
+}
+.right {
+	float:right;
+}
+
+
