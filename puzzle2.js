@@ -5,7 +5,7 @@ function checkAnswer(){
 	window.location.replace("http://cybrix.tech/final.html");
     }
     else{
-        alert('Sorry, incorrect')
+        alert('You are incorrect... Bricky starts to fade away')
 	window.location.replace("http://cybrix.tech/finalnorick.html");
     }
 
