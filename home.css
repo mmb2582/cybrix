@@ -41,6 +41,12 @@ li a:hover {
   text-align: center;
 }
 
+.logo > li img{
+	
+	width: 50%;
+	
+	vertical-align: middle;
+}
 
 html {
   scroll-behavior: smooth;
